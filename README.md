@@ -4,7 +4,7 @@ Filter Bar for app bar bottom, with this you can do some filtring.Use this widge
 
 ## Preview
 
-![preview](/assets/images/aris_filter_bar.gif)
+![preview](https://raw.githubusercontent.com/arisorgcn/aris_filter_bar/main/assets/images/aris_filter_bar.gif)
 
 ## Getting Started
 
