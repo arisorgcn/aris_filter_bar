@@ -19,6 +19,7 @@ dependencies:
 
   # 局部状态管理 (https://github.com/felangel/bloc/tree/master/packages/flutter_bloc)
   flutter_bloc: ^6.1.1
+  bloc: ^6.1.1
 
   # 智能选择 (https://github.com/davigmacode/flutter_smart_select)
   smart_select: ^4.3.2
