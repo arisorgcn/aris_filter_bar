@@ -2,7 +2,7 @@ name: aris_filter_bar
 description: Filter Bar for app bar bottom, with this you can do some filtring.Use this widge,
   you should add [flutter_bloc] to your pubspec.yaml
 version: 1.0.0
-homepage:
+homepage: https://github.com/arisorgcn/aris_filter_bar
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
